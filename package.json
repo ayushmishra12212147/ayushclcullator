@@ -1,0 +1,24 @@
+{
+  "name": "ayushcalcullator",
+  "version": "1.1.1",
+  "description": "calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmishra12212147/ayushclcullator.git"
+  },
+  "keywords": [
+    "Automatic"
+  ],
+  "author": "Ayush Kumar Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushmishra12212147/ayushclcullator/issues"
+  },
+  "homepage": "https://github.com/ayushmishra12212147/ayushclcullator#readme"
+}
+
+  
